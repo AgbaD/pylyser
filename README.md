@@ -1,2 +1,2 @@
 # pylyser
-Onchain analysis tool build with python
+Onchain analysis tool built with python
