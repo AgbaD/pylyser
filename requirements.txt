@@ -1,1 +1,8 @@
-web3==6.3.0
+solana
+seaborn
+matplotlib
+requests
+web3
+tweepy
+numpy
+pandas
